@@ -16,7 +16,7 @@
       alt="Email" 
       align="center">
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/maratzinger">
     <img 
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" 
       alt="LinkedIn" 
