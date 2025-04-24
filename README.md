@@ -133,6 +133,6 @@
 <h3 align="left">🔥 GitHub Stats:</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zingermarat&layout=compact&theme=github_dark&hide_border=true" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zingermarat&layout=compact&theme=github_dark&hide_border=true" width="50%" />
 </div>
 
