@@ -28,7 +28,7 @@
 
 <h3 align="left">🛠 Tech Stack:</h3>
 
-<table>
+<table align="center">
   <tr>
     <td><strong>💻 Languages</strong></td>
     <td>
