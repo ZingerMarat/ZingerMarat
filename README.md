@@ -95,7 +95,15 @@
 <!-- Project 1: Pizza App -->
 <div align="left" style="margin-bottom: 30px;">
   <p><strong>🛒 Pizza Ordering Web App</strong></p>
-  <a href="https://github.com/your-username/pizza-app" target="_blank">
+  <ul>
+    <li>Product filtering with server-side rendering and URL parameter storage</li>
+    <li>Authentication and registration via email/password and GitHub(NextAuth)</li>
+    <li>Email verification and automated notifications for registration and orders (Resend)</li>
+    <li>Flexible shopping cart for managing orders before payment</li>
+    <li>Dynamic product pages and modals for detailed product views (Parallel Routes)</li>
+    <li>Deployed on Vercel with PostgreSQL and Prisma for database management</li>
+  </ul>
+  <a href="https://github.com/ZingerMarat/pizza_app" target="_blank">
     <div align="left">
   <img src="https://github.com/ZingerMarat/pizza_app/blob/main/screenshots/home.png" width="400"/>
   <img src="https://github.com/ZingerMarat/pizza_app/blob/main/screenshots/product.png" width="400"/>
@@ -103,29 +111,46 @@
   <img src="https://github.com/ZingerMarat/pizza_app/blob/main/screenshots/checkout.png" width="400"/>
 </div>
   </a>
-  <ul>
-    <li>Full-stack application with filtering, cart, and checkout features</li>
-    <li>Email and GitHub authentication using NextAuth</li>
-    <li>Optimized deployment with Server Actions and SSR</li>
-  </ul>
 </div>
 <br>
 
-<!-- Project 2: Travel Partner App -->
+<!-- Project 2: Real-Time Chat App -->
+<div align="left" style="margin-bottom: 30px;">
+  <p><strong>💬 Real-Time Chat App</strong></p>
+  <ul>
+    <li>Authentication and profile management with JWT</li>
+    <li>Real-time messaging using Socket.io</li>
+    <li>Online user status synced across all sessions</li>
+    <li>Global state management with Zustand</li>
+    <li>Responsive UI styled with TailwindCSS and DaisyUI</li>
+    <li>Backend error handling and secure cookie-based sessions</li>
+  </ul>
+  <a href="https://github.com/ZingerMarat/chat-app/tree/main" target="_blank">
+    <div align="left">
+        <img src="https://github.com/ZingerMarat/chat-app/blob/main/screens/Screenshot%202025-05-08%20at%2022.51.38.png" width="400"/>
+        <img src="https://github.com/ZingerMarat/chat-app/blob/main/screens/Screenshot%202025-05-08%20at%2022.52.02.png" width="400"/>
+        <img src="https://github.com/ZingerMarat/chat-app/blob/main/screens/Screenshot%202025-05-08%20at%2022.50.08.png" width="400"/>
+        <img src="https://github.com/ZingerMarat/chat-app/blob/main/screens/Screenshot%202025-05-08%20at%2022.51.05.png" width="400"/>
+</div>
+  </a>
+</div>
+<br>
+
+<!-- Project 3: Travel Partner App -->
 <div align="left" style="margin-bottom: 30px;">
   <p><strong>✈️ Travel Partner App (React Native)</strong></p>
-  <a href="https://github.com/your-username/travel-partner" target="_blank">
+    <ul>
+    <li>Mobile app for matching solo travelersreal-time chat</li>
+    <li>Real-time chat</li>
+    <li>Media storage using AWS S3, user data in NoSQL database</li>
+  </ul>
+  <a href="https://github.com/NoamTrabelsi/Lets-FinalProject-" target="_blank">
   <div align="left">
   <img src="https://raw.githubusercontent.com/NoamTrabelsi/Lets-FinalProject-/main/assets/photo_2024-07-20_20-49-42.jpg" width="200"/>
   <img src="https://raw.githubusercontent.com/NoamTrabelsi/Lets-FinalProject-/main/assets/photo_2024-07-20_20-49-40.jpg" width="200"/>
   <img src="https://raw.githubusercontent.com/NoamTrabelsi/Lets-FinalProject-/main/assets/photo_2024-07-20_20-49-37.jpg" width="200"/>
 </div>
     </a>
-  <ul>
-    <li>Mobile app for matching solo travelersreal-time chat</li>
-    <li>Real-time chat</li>
-    <li>Media storage using AWS S3, user data in NoSQL database</li>
-  </ul>
 </div>
 
 <h1></h1>
