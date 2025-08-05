@@ -28,65 +28,32 @@
 
 <h3 align="left">🛠 Tech Stack:</h3>
 
-<table align="center">
-  <tr>
-    <td><strong>💻 Languages</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
-    </td>
-  </tr>
 
-  <tr>
-    <td><strong>🎨 Front-End</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
-    </td>
-  </tr>
+<strong>💻 Languages</strong>
 
-  <tr>
-    <td><strong>🧩 Back-End</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js"/>
-    </td>
-  </tr>
+<p float="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/> </p>
 
-  <tr>
-    <td><strong>🗄️ Databases</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
-    </td>
-  </tr>
 
-  <tr>
-    <td><strong>☁️ DevOps & Cloud</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins"/>
-    </td>
-  </tr>
+<strong>🎨 Front-End</strong>
 
-  <tr>
-    <td><strong>🧰 Tools & Platforms</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="macOS"/>
-    </td>
-  </tr>
-</table>
+<p float="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/> </p>
+
+
+<strong>🧩 Back-End</strong>
+
+<p float="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js"/> </p>
+
+
+<strong>🗄️ Databases</strong>
+
+<p float="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/> </p>
+
+<strong>☁️ DevOps & Cloud</strong>
+<p float="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins"/> </p>
+
+
+<strong>🧰 Tools & Platforms</strong>
+<p float="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="macOS"/> </p>
 
 <h1></h1>
 
@@ -94,7 +61,7 @@
 
 <!-- Project 1: Pizza App -->
 <div align="left" style="margin-bottom: 30px;">
-  <p><strong>🛒 Pizza Ordering Web App</strong></p>
+  <p><strong>🛒 <a href="https://github.com/ZingerMarat/pizza_app" target="_blank">Pizza Ordering Web App</a></strong></p>
   <ul>
     <li>Product filtering with server-side rendering and URL parameter storage</li>
     <li>Authentication and registration via email/password and GitHub(NextAuth)</li>
@@ -114,9 +81,11 @@
 </div>
 <br>
 
+<h1></h1>
+
 <!-- Project 2: Real-Time Chat App -->
 <div align="left" style="margin-bottom: 30px;">
-  <p><strong>💬 Real-Time Chat App</strong></p>
+  <p><strong>💬 <a href="https://github.com/ZingerMarat/chat-app" target="_blank">Real-Time Chat App</a></strong></p>
   <ul>
     <li>Authentication and profile management with JWT</li>
     <li>Real-time messaging using Socket.io</li>
@@ -136,9 +105,11 @@
 </div>
 <br>
 
+<h1></h1>
+
 <!-- Project 3: Travel Partner App -->
 <div align="left" style="margin-bottom: 30px;">
-  <p><strong>✈️ Travel Partner App (React Native)</strong></p>
+  <p><strong>✈️ <a href="https://github.com/NoamTrabelsi/Lets-FinalProject-" target="_blank">Travel Partner App (React Native)</a></strong></p>
     <ul>
     <li>Mobile app for matching solo travelersreal-time chat</li>
     <li>Real-time chat</li>
