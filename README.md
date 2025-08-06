@@ -126,6 +126,27 @@
 
 <h1></h1>
 
+<!-- Project: Stock Exchange App -->
+<div align="left" style="margin-bottom: 30px;">
+  <p><strong>📈 <a href="https://github.com/ZingerMarat/stock_exchange" target="_blank">Stock Exchange App</a></strong></p>
+  <ul>
+    <li>Multi-page web app for searching and comparing NASDAQ-listed stocks</li>
+    <li>Built with vanilla JavaScript, HTML, CSS, and Chart.js</li>
+    <li>Company search, detailed profile pages, historical charts, and comparison features</li>
+    <li>Real-time stock ticker with animated marquee using a custom JavaScript class</li>
+    <li>Optimized API usage with debounced search and batch requests</li>
+  </ul>
+  <a href="https://github.com/ZingerMarat/stock_exchange" target="_blank">
+    <div align="left">
+      <img src="https://github.com/ZingerMarat/stock_exchange/blob/main/screenshots/1.png" width="400"/>
+      <img src="https://github.com/ZingerMarat/stock_exchange/blob/main/screenshots/2.png" width="400"/>
+      <img src="https://github.com/ZingerMarat/stock_exchange/blob/main/screenshots/3.png" width="800"/>
+    </div>
+  </a>
+</div>
+
+<h1></h1>
+
 <h3 align="left">🔥 GitHub Stats:</h3>
 
 <div align="center">
