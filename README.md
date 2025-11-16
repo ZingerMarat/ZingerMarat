@@ -39,6 +39,29 @@
 
 <h3 align="left">🌐 My Projects:</h3>
 
+<!-- Project: Make my Trip -->
+<div align="left" style="margin-bottom: 30px;">
+  <p><strong>✈️ <a href="https://github.com/Tambeej/make-my-way-backend" target="_blank">Travel Planner</a></strong></p>
+  <ul>
+    <li>Smart route generation based on user preferences</li>
+    <li>AI-powered itinerary creation using Gemini AI</li>
+    <li>Integration with Google Maps, Directions, Places & Geocoding APIs</li>
+    <li>Interactive map visualization for route navigation</li>
+    <li>PDF export using Puppeteer with file storage on Supabase</li>
+    <li>Trip saving and secure sharing functionality</li>
+    <li>Developed with agile teamwork, Git feature branching & code reviews</li>
+    <li>Deployed on Render</li>
+  </ul>
+  <a href="https://github.com/Tambeej/make-my-way-backend" target="_blank">
+    <div align="left">
+  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGTSA4lwDsY3Q/profile-treasury-image-shrink_1280_1280/B4DZpf_3MuGQAQ-/0/1762547169172?e=1763920800&v=beta&t=R4TR93onTqvi-yjVHBVayyYyrLCV_7avpHAIeGPwmmY" width="400"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQG0oawUM9j2dw/profile-treasury-image-shrink_1280_1280/B4DZpgAGC6JMAU-/0/1762547229760?e=1763920800&v=beta&t=V_6SGFY0aCyjj10PvpgamKVXDNT7p_NLFBw0m9lEZeg" width="400"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGZ4nyv_nc6Wg/profile-treasury-image-shrink_1280_1280/B4DZpgAMIlJcAQ-/0/1762547254711?e=1763920800&v=beta&t=Or4mYwDPV3ilx0hcJtCxTe2eYS70HfLmSFk-Ue_gjs8" width="400"/>
+</div>
+  </a>
+</div>
+<br>
+
 <!-- Project 1: Pizza App -->
 <div align="left" style="margin-bottom: 30px;">
   <p><strong>🛒 <a href="https://github.com/ZingerMarat/pizza_app" target="_blank">Pizza Ordering Web App</a></strong></p>
