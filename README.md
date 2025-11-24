@@ -39,6 +39,35 @@
 
 <h3 align="left">🌐 My Projects:</h3>
 
+<!-- Project: ZingerFlix -->
+<div align="left" style="margin-bottom: 30px;">
+  <p><strong>🎬 <a href="https://github.com/ZingerMarat/netflix_clone" target="_blank">ZingerFlix – Streaming Web Application</a></strong></p>
+  <a href="https://zingerflix.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" />
+</a>
+
+  <ul>
+    <li>Full-stack Netflix-style platform built with React 19, Vite, and TailwindCSS 4</li>
+    <li>Secure authentication with JWT cookies, bcrypt password hashing & session persistence</li>
+    <li>TMDB API integration for movie data, categories, search, metadata & trailers</li>
+    <li>AI-powered recommendations using Google Gemini with Zod-validated structured responses</li>
+    <li>Infinite scrolling, debounced search queries & dynamic hero banner with randomized trailers</li>
+    <li>Optimized for mobile with responsive layouts, touch-friendly Swiper carousels & drawer navigation</li>
+    <li>Modular Node.js & Express 5 backend with REST APIs, MVC structure & environment-based config</li>
+  </ul>
+
+  <a href="https://github.com/ZingerMarat/netflix_clone" target="_blank">
+    <div align="left">
+      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGDSYmxxdx2Rg/profile-treasury-image-shrink_800_800/B4DZqxgeBPKQAY-/0/1763914677268?e=1764576000&v=beta&t=UqIVATNnoaz3kRNF8Lrb2nvVvANl72tqLH3v1OJY2cI" width="800"/>
+      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHAmjH98UkzLA/profile-treasury-image-shrink_800_800/B4DZqxfID4JMAo-/0/1763914321520?e=1764576000&v=beta&t=9aCrpk6gehiLlUmofaiD8rQoxvFRFfY9o7ZueY-jpzc" width="800"/>
+      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHEvEVD3-pwYQ/profile-treasury-image-shrink_1920_1920/B4DZqxen5aJcAc-/0/1763914189821?e=1764576000&v=beta&t=6VHrZVE_dvHJ83qfdexaYr5qgXKnKdKJd4fvp0pYjnA" width="400"/>
+      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFnUGgRRt6j_g/profile-treasury-image-shrink_1920_1920/B4DZqxeqypJMAc-/0/1763914200146?e=1764576000&v=beta&t=0bGKMsR8JghMYDDeaKjP_pTE_cvztmkSMTBzzafKBiw" width="400"/>
+    </div>
+  </a>
+</div>
+<br>
+
+
 <!-- Project: Make my Trip -->
 <div align="left" style="margin-bottom: 30px;">
   <p><strong>✈️ <a href="https://github.com/Tambeej/make-my-way-backend" target="_blank">Travel Planner</a></strong></p>
