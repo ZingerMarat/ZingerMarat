@@ -72,6 +72,7 @@
 <!-- Project: Make my Trip -->
 <div align="left" style="margin-bottom: 30px;">
   <p><strong>✈️ <a href="https://github.com/Tambeej/make-my-way-backend" target="_blank">Travel Planner</a></strong></p>
+  
   <ul>
     <li>Smart route generation based on user preferences</li>
     <li>AI-powered itinerary creation using Gemini AI</li>
@@ -84,9 +85,10 @@
   </ul>
   <a href="https://github.com/Tambeej/make-my-way-backend" target="_blank">
     <div align="left">
-  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGTSA4lwDsY3Q/profile-treasury-image-shrink_1280_1280/B4DZpf_3MuGQAQ-/0/1762547169172?e=1764579600&v=beta&t=K_yBEkNzQiStrmw-1c0b8GevCUau9meDUOiGd0GT1uM" width="400"/>
-  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQG0oawUM9j2dw/profile-treasury-image-shrink_1280_1280/B4DZpgAGC6JMAU-/0/1762547229760?e=1764579600&v=beta&t=X4I9z9Nmi-dWa6oRWisk7L4nftYfoHrNfPlvEhRq7MI" width="400"/>
-  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGZ4nyv_nc6Wg/profile-treasury-image-shrink_1280_1280/B4DZpgAMIlJcAQ-/0/1762547254711?e=1764579600&v=beta&t=bHFzxcVt4cMqOsmg45b2IakXnVtSXuZ44oyH7YAjUIQ" width="400"/>
+  <img src="https://github.com/ZingerMarat/MapMyWay_Server_Google_API/blob/main/screenshots/1.jpeg" width="400"/>
+  <img src="https://github.com/ZingerMarat/MapMyWay_Server_Google_API/blob/main/screenshots/2.jpeg" width="400"/>
+  <img src="https://github.com/ZingerMarat/MapMyWay_Server_Google_API/blob/main/screenshots/3.jpeg" width="400"/>
+
 </div>
   </a>
 </div>
