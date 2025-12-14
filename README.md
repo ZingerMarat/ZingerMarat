@@ -62,8 +62,6 @@
       <img src="https://github.com/ZingerMarat/netflix_clone/blob/main/screenshots/2.jpeg?raw=true" width="800"/>
       <img src="https://github.com/ZingerMarat/netflix_clone/blob/main/screenshots/3.jpeg?raw=true" width="400"/>
       <img src="https://github.com/ZingerMarat/netflix_clone/blob/main/screenshots/4.jpeg?raw=true" width="400"/>
-
-    </div>
   </a>
 </div>
 <br>
@@ -72,6 +70,10 @@
 <!-- Project: Make my Trip -->
 <div align="left" style="margin-bottom: 30px;">
   <p><strong>✈️ <a href="https://github.com/Tambeej/make-my-way-backend" target="_blank">Travel Planner</a></strong></p>
+  
+  <a href="https://make-my-way-front.onrender.com/register" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" />
+  </a>
   
   <ul>
     <li>Smart route generation based on user preferences</li>
