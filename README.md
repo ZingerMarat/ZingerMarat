@@ -44,7 +44,7 @@
   <p><strong>🎬 <a href="https://github.com/ZingerMarat/netflix_clone" target="_blank">ZingerFlix – Streaming Web Application</a></strong></p>
   <a href="https://zingerflix.onrender.com" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" />
-</a>
+  </a>
 
   <ul>
     <li>Full-stack Netflix-style platform built with React 19, Vite, and TailwindCSS 4</li>
@@ -95,6 +95,9 @@
 <!-- Project 1: Pizza App -->
 <div align="left" style="margin-bottom: 30px;">
   <p><strong>🛒 <a href="https://github.com/ZingerMarat/pizza_app" target="_blank">Pizza Ordering Web App</a></strong></p>
+  <a href="https://pizza-app-pi-nine.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" />
+  </a>
   <ul>
     <li>Product filtering with server-side rendering and URL parameter storage</li>
     <li>Authentication and registration via email/password and GitHub(NextAuth)</li>
