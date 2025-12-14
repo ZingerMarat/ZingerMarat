@@ -58,10 +58,11 @@
 
   <a href="https://github.com/ZingerMarat/netflix_clone" target="_blank">
     <div align="left">
-      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGDSYmxxdx2Rg/profile-treasury-image-shrink_800_800/B4DZqxgeBPKQAY-/0/1763914677268?e=1764576000&v=beta&t=UqIVATNnoaz3kRNF8Lrb2nvVvANl72tqLH3v1OJY2cI" width="800"/>
-      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHAmjH98UkzLA/profile-treasury-image-shrink_800_800/B4DZqxfID4JMAo-/0/1763914321520?e=1764576000&v=beta&t=9aCrpk6gehiLlUmofaiD8rQoxvFRFfY9o7ZueY-jpzc" width="800"/>
-      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHEvEVD3-pwYQ/profile-treasury-image-shrink_1920_1920/B4DZqxen5aJcAc-/0/1763914189821?e=1764576000&v=beta&t=6VHrZVE_dvHJ83qfdexaYr5qgXKnKdKJd4fvp0pYjnA" width="400"/>
-      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFnUGgRRt6j_g/profile-treasury-image-shrink_1920_1920/B4DZqxeqypJMAc-/0/1763914200146?e=1764576000&v=beta&t=0bGKMsR8JghMYDDeaKjP_pTE_cvztmkSMTBzzafKBiw" width="400"/>
+      <img src="https://github.com/ZingerMarat/netflix_clone/blob/main/screenshots/1.jpeg?raw=true" width="800"/>
+      <img src="https://github.com/ZingerMarat/netflix_clone/blob/main/screenshots/2.jpeg?raw=true" width="800"/>
+      <img src="https://github.com/ZingerMarat/netflix_clone/blob/main/screenshots/3.jpeg?raw=true" width="400"/>
+      <img src="https://github.com/ZingerMarat/netflix_clone/blob/main/screenshots/4.jpeg?raw=true" width="400"/>
+
     </div>
   </a>
 </div>
